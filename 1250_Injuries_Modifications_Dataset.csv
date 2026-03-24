@@ -1,0 +1,1251 @@
+Injury_ID,Injury_Location,Condition_Name,Severity,Affected_Workout_Types,Recommended_Modifications
+INJ_1000,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1001,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Pull (Back/Biceps) & Full Body,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1002,Lower Back,SI Joint Dysfunction,Moderate,Full Body,Keep spine neutral
+INJ_1003,Neck,Postural Neck Pain,Rehabilitating,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1004,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1005,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Legs,Substitute standing calf raises with seated
+INJ_1006,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio & Legs,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1007,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1008,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body & Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling)
+INJ_1009,Shoulder,Shoulder Impingement,Mild,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1010,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1011,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Full Body & Core & Cardio,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1012,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body,Avoid wide-grip pull-ups
+INJ_1013,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Keep spine neutral | Avoid twisting core movements
+INJ_1014,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1015,Ankle / Foot,Achilles Tendinitis,Moderate,Full Body,Substitute standing calf raises with seated
+INJ_1016,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_1017,Ankle / Foot,Flat Feet Pain,Mild,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1018,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1019,Neck,Whiplash Recovery,Moderate,Upper Body,Avoid overhead presses if causing pain
+INJ_1020,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps) & Full Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_1021,Neck,Whiplash Recovery,Moderate,Upper Body,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1022,Shoulder,AC Joint Sprain,Mild,Upper Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1023,Ankle / Foot,Shin Splints,Mild,Full Body,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1024,Knee,Knee Osteoarthritis,Chronic/Recurring,Core & Cardio,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1025,Neck,Whiplash Recovery,Moderate,Upper Body,Avoid crunches where hands pull on the neck
+INJ_1026,Lower Back,Lumbar Strain,Chronic/Recurring,Core & Cardio & Pull (Back/Biceps),Keep spine neutral
+INJ_1027,Wrist / Elbow,Wrist Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1028,Shoulder,AC Joint Sprain,Moderate,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1029,Lower Back,Lumbar Strain,Chronic/Recurring,Pull (Back/Biceps),Avoid twisting core movements
+INJ_1030,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1031,Ankle / Foot,Plantar Fasciitis,Moderate,Full Body & Core & Cardio,Substitute standing calf raises with seated | Perform cardio on a stationary bike or swimming instead
+INJ_1032,Lower Back,Muscle Spasm,Chronic/Recurring,Core & Cardio & Pull (Back/Biceps),Avoid twisting core movements
+INJ_1033,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1034,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1035,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1036,Ankle / Foot,Achilles Tendinitis,Mild,Core & Cardio,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_1037,Neck,Postural Neck Pain,Chronic/Recurring,Upper Body,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1038,Neck,Postural Neck Pain,Mild,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1039,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1040,Lower Back,Sciatica,Rehabilitating,Legs & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows
+INJ_1041,Ankle / Foot,Ankle Sprain,Moderate,Full Body & Legs,Substitute standing calf raises with seated
+INJ_1042,Lower Back,Herniated Disc (Mild),Moderate,Legs & Full Body,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1043,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1044,Ankle / Foot,Ankle Sprain,Moderate,Legs & Full Body,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1045,Lower Back,Sciatica,Chronic/Recurring,Legs,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1046,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1047,Ankle / Foot,Shin Splints,Mild,Legs & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1048,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body,Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1049,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid skull crushers
+INJ_1050,Knee,Meniscus Tear (Mild),Mild,Core & Cardio,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1051,Ankle / Foot,Flat Feet Pain,Moderate,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1052,Knee,Patellar Tendinitis,Rehabilitating,Full Body,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1053,Knee,Patellar Tendinitis,Chronic/Recurring,Full Body & Legs,Keep knee flexion pain-free
+INJ_1054,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Legs & Core & Cardio,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1055,Knee,Patellar Tendinitis,Mild,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_1056,Lower Back,Sciatica,Moderate,Legs & Pull (Back/Biceps),Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1057,Knee,Meniscus Tear (Mild),Rehabilitating,Legs & Full Body,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1058,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Full Body & Core & Cardio,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1059,Neck,Postural Neck Pain,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1060,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Use neutral grips (hammer curls instead of regular)
+INJ_1061,Knee,Patellar Tendinitis,Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1062,Knee,Meniscus Tear (Mild),Mild,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1063,Lower Back,Muscle Spasm,Chronic/Recurring,Pull (Back/Biceps),Keep spine neutral
+INJ_1064,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1065,Ankle / Foot,Flat Feet Pain,Rehabilitating,Full Body & Legs,Substitute standing calf raises with seated
+INJ_1066,Shoulder,Biceps Tendinitis,Mild,Pull (Back/Biceps) & Full Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1067,Lower Back,Herniated Disc (Mild),Mild,Full Body,Avoid heavy deadlifts and bent-over rows
+INJ_1068,Lower Back,Lumbar Strain,Mild,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1069,Lower Back,SI Joint Dysfunction,Rehabilitating,Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1070,Neck,Whiplash Recovery,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1071,Knee,Patellar Tendinitis,Chronic/Recurring,Core & Cardio & Legs,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1072,Lower Back,SI Joint Dysfunction,Rehabilitating,Legs & Core & Cardio,Keep spine neutral | Avoid twisting core movements
+INJ_1073,Lower Back,Herniated Disc (Mild),Mild,Legs & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1074,Lower Back,Sciatica,Moderate,Legs & Core & Cardio,Avoid twisting core movements | Keep spine neutral
+INJ_1075,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio & Full Body,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1076,Lower Back,Muscle Spasm,Rehabilitating,Full Body,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1077,Neck,Whiplash Recovery,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Avoid crunches where hands pull on the neck
+INJ_1078,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Core & Cardio & Legs,Wear supportive footwear during lifts
+INJ_1079,Lower Back,Herniated Disc (Mild),Rehabilitating,Legs & Full Body,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1080,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing
+INJ_1081,Ankle / Foot,Flat Feet Pain,Mild,Full Body & Legs,Substitute standing calf raises with seated
+INJ_1082,Knee,Meniscus Tear (Mild),Rehabilitating,Core & Cardio,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1083,Shoulder,Biceps Tendinitis,Rehabilitating,Full Body,Avoid wide-grip pull-ups
+INJ_1084,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1085,Lower Back,Lumbar Strain,Mild,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs
+INJ_1086,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1087,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1088,Shoulder,Biceps Tendinitis,Rehabilitating,Push (Chest/Shoulders/Triceps) & Full Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1089,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1090,Neck,Whiplash Recovery,Chronic/Recurring,Upper Body,Keep neck neutral during planks and push-ups
+INJ_1091,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows
+INJ_1092,Shoulder,Rotator Cuff Tendinitis,Moderate,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_1093,Neck,Cervical Strain,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1094,Lower Back,Lumbar Strain,Moderate,Pull (Back/Biceps),Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1095,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Full Body,Wear supportive footwear during lifts
+INJ_1096,Neck,Postural Neck Pain,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1097,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1098,Knee,Knee Osteoarthritis,Moderate,Full Body & Legs,Avoid deep squatting
+INJ_1099,Lower Back,Herniated Disc (Mild),Mild,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Avoid twisting core movements
+INJ_1100,Neck,Cervical Strain,Rehabilitating,Upper Body & Core & Cardio,Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1101,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1102,Ankle / Foot,Shin Splints,Moderate,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1103,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Core & Cardio,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1104,Ankle / Foot,Flat Feet Pain,Mild,Full Body,Substitute standing calf raises with seated
+INJ_1105,Ankle / Foot,Shin Splints,Mild,Legs,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1106,Knee,Knee Osteoarthritis,Chronic/Recurring,Core & Cardio,Avoid deep squatting
+INJ_1107,Ankle / Foot,Flat Feet Pain,Mild,Core & Cardio & Full Body,Wear supportive footwear during lifts
+INJ_1108,Wrist / Elbow,TFCC Tear (Mild),Moderate,Pull (Back/Biceps),Avoid skull crushers
+INJ_1109,Neck,Whiplash Recovery,Moderate,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_1110,Neck,Cervical Strain,Rehabilitating,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1111,Shoulder,Biceps Tendinitis,Moderate,Pull (Back/Biceps) & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1112,Shoulder,Frozen Shoulder (Mild),Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_1113,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_1114,Wrist / Elbow,Golfer's Elbow,Moderate,Pull (Back/Biceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Use neutral grips (hammer curls instead of regular)
+INJ_1115,Neck,Postural Neck Pain,Mild,Core & Cardio,Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1116,Knee,Knee Osteoarthritis,Rehabilitating,Legs,Avoid deep squatting
+INJ_1117,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Full Body & Upper Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_1118,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs & Core & Cardio,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_1119,Shoulder,AC Joint Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Full Body,Avoid wide-grip pull-ups
+INJ_1120,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1121,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1122,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1123,Lower Back,Muscle Spasm,Chronic/Recurring,Legs & Core & Cardio,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1124,Neck,Postural Neck Pain,Rehabilitating,Core & Cardio & Upper Body,Avoid overhead presses if causing pain
+INJ_1125,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body,Avoid skull crushers
+INJ_1126,Knee,Knee Osteoarthritis,Mild,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1127,Lower Back,Lumbar Strain,Chronic/Recurring,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1128,Knee,Knee Osteoarthritis,Mild,Legs & Full Body,Avoid deep squatting | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1129,Shoulder,Shoulder Impingement,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups
+INJ_1130,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Full Body & Core & Cardio,Substitute standing calf raises with seated | Perform cardio on a stationary bike or swimming instead
+INJ_1131,Lower Back,Lumbar Strain,Rehabilitating,Core & Cardio,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1132,Shoulder,AC Joint Sprain,Mild,Full Body & Pull (Back/Biceps),Avoid overhead pressing
+INJ_1133,Shoulder,Rotator Cuff Tendinitis,Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1134,Lower Back,Herniated Disc (Mild),Rehabilitating,Full Body & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1135,Neck,Postural Neck Pain,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1136,Lower Back,Muscle Spasm,Moderate,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1137,Neck,Cervical Strain,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1138,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1139,Knee,Patellar Tendinitis,Moderate,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1140,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body & Legs,Keep knee flexion pain-free
+INJ_1141,Shoulder,Shoulder Impingement,Moderate,Push (Chest/Shoulders/Triceps) & Full Body,Avoid overhead pressing
+INJ_1142,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio & Full Body,Keep knee flexion pain-free
+INJ_1143,Shoulder,Shoulder Impingement,Rehabilitating,Push (Chest/Shoulders/Triceps) & Full Body,Keep elbows tucked during push-ups
+INJ_1144,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_1145,Lower Back,SI Joint Dysfunction,Mild,Core & Cardio & Full Body,Avoid heavy deadlifts and bent-over rows
+INJ_1146,Shoulder,Rotator Cuff Tendinitis,Moderate,Upper Body & Full Body,Avoid overhead pressing
+INJ_1147,Knee,Ligament Sprain (ACL/MCL),Mild,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1148,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1149,Lower Back,Herniated Disc (Mild),Mild,Core & Cardio,Avoid twisting core movements | Keep spine neutral
+INJ_1150,Neck,Upper Trapezius Spasm,Mild,Upper Body,Avoid heavy barbell shrugs
+INJ_1151,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1152,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Core & Cardio,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_1153,Ankle / Foot,Ankle Sprain,Rehabilitating,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1154,Neck,Cervical Strain,Rehabilitating,Upper Body,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1155,Ankle / Foot,Shin Splints,Moderate,Core & Cardio,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1156,Ankle / Foot,Plantar Fasciitis,Moderate,Full Body & Core & Cardio,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1157,Neck,Cervical Strain,Rehabilitating,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1158,Ankle / Foot,Ankle Sprain,Moderate,Full Body & Legs,Substitute standing calf raises with seated | Perform cardio on a stationary bike or swimming instead
+INJ_1159,Knee,Patellar Tendinitis,Mild,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_1160,Neck,Upper Trapezius Spasm,Mild,Upper Body & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1161,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps) & Legs,Keep spine neutral | Avoid twisting core movements
+INJ_1162,Ankle / Foot,Plantar Fasciitis,Mild,Full Body,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1163,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Legs,Wear supportive footwear during lifts
+INJ_1164,Neck,Cervical Strain,Moderate,Upper Body,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1165,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_1166,Neck,Postural Neck Pain,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1167,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1168,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1169,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1170,Neck,Cervical Strain,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1171,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Pull (Back/Biceps),Avoid skull crushers
+INJ_1172,Neck,Postural Neck Pain,Rehabilitating,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1173,Lower Back,Sciatica,Mild,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1174,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1175,Ankle / Foot,Achilles Tendinitis,Mild,Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1176,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Upper Body & Pull (Back/Biceps),Avoid skull crushers
+INJ_1177,Ankle / Foot,Flat Feet Pain,Rehabilitating,Legs,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_1178,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1179,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1180,Ankle / Foot,Achilles Tendinitis,Moderate,Core & Cardio & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1181,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio,Avoid heavy barbell shrugs
+INJ_1182,Neck,Postural Neck Pain,Moderate,Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1183,Lower Back,Lumbar Strain,Mild,Legs & Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1184,Lower Back,Herniated Disc (Mild),Mild,Core & Cardio,Avoid twisting core movements
+INJ_1185,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Full Body,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1186,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Full Body & Legs,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_1187,Neck,Postural Neck Pain,Rehabilitating,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1188,Wrist / Elbow,Wrist Sprain,Mild,Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1189,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1190,Ankle / Foot,Ankle Sprain,Moderate,Legs,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_1191,Wrist / Elbow,Wrist Sprain,Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1192,Ankle / Foot,Achilles Tendinitis,Mild,Full Body,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_1193,Shoulder,Shoulder Impingement,Rehabilitating,Pull (Back/Biceps) & Upper Body,Keep elbows tucked during push-ups
+INJ_1194,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Upper Body & Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1195,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1196,Knee,Patellar Tendinitis,Rehabilitating,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1197,Ankle / Foot,Flat Feet Pain,Moderate,Full Body,Substitute standing calf raises with seated
+INJ_1198,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy barbell shrugs
+INJ_1199,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Upper Body,Avoid overhead pressing
+INJ_1200,Lower Back,Muscle Spasm,Mild,Full Body & Legs,Avoid heavy deadlifts and bent-over rows
+INJ_1201,Shoulder,Frozen Shoulder (Mild),Moderate,Full Body & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1202,Lower Back,Sciatica,Rehabilitating,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1203,Ankle / Foot,Achilles Tendinitis,Moderate,Legs & Core & Cardio,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1204,Lower Back,SI Joint Dysfunction,Mild,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1205,Shoulder,Biceps Tendinitis,Rehabilitating,Upper Body,Keep elbows tucked during push-ups
+INJ_1206,Wrist / Elbow,Wrist Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1207,Neck,Upper Trapezius Spasm,Rehabilitating,Core & Cardio,Avoid overhead presses if causing pain
+INJ_1208,Knee,Meniscus Tear (Mild),Mild,Full Body & Legs,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1209,Ankle / Foot,Ankle Sprain,Mild,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1210,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs & Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1211,Ankle / Foot,Shin Splints,Rehabilitating,Full Body,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1212,Lower Back,Sciatica,Mild,Core & Cardio & Full Body,Avoid twisting core movements | Keep spine neutral
+INJ_1213,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1214,Lower Back,Sciatica,Mild,Full Body & Core & Cardio,Keep spine neutral
+INJ_1215,Neck,Whiplash Recovery,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1216,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio & Upper Body,Avoid crunches where hands pull on the neck
+INJ_1217,Knee,Knee Osteoarthritis,Mild,Legs & Full Body,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1218,Ankle / Foot,Shin Splints,Rehabilitating,Full Body & Legs,Substitute standing calf raises with seated
+INJ_1219,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1220,Neck,Postural Neck Pain,Mild,Core & Cardio & Upper Body,Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1221,Wrist / Elbow,TFCC Tear (Mild),Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1222,Knee,Knee Osteoarthritis,Moderate,Legs & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1223,Neck,Upper Trapezius Spasm,Mild,Upper Body & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1224,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Legs & Full Body,Avoid deep squatting
+INJ_1225,Neck,Whiplash Recovery,Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1226,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1227,Ankle / Foot,Ankle Sprain,Mild,Legs,Wear supportive footwear during lifts
+INJ_1228,Shoulder,Biceps Tendinitis,Mild,Full Body & Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1229,Neck,Whiplash Recovery,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1230,Shoulder,AC Joint Sprain,Moderate,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1231,Knee,Meniscus Tear (Mild),Chronic/Recurring,Full Body & Legs,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1232,Lower Back,Sciatica,Chronic/Recurring,Pull (Back/Biceps) & Legs,Avoid twisting core movements | Keep spine neutral
+INJ_1233,Knee,Meniscus Tear (Mild),Mild,Legs,Keep knee flexion pain-free
+INJ_1234,Ankle / Foot,Ankle Sprain,Rehabilitating,Core & Cardio,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_1235,Ankle / Foot,Ankle Sprain,Mild,Full Body,Substitute standing calf raises with seated
+INJ_1236,Knee,Knee Osteoarthritis,Chronic/Recurring,Core & Cardio & Full Body,Keep knee flexion pain-free
+INJ_1237,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1238,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1239,Lower Back,SI Joint Dysfunction,Moderate,Core & Cardio & Legs,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1240,Lower Back,Lumbar Strain,Moderate,Pull (Back/Biceps) & Legs,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1241,Lower Back,Sciatica,Rehabilitating,Core & Cardio & Legs,Keep spine neutral
+INJ_1242,Knee,Patellar Tendinitis,Chronic/Recurring,Full Body & Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1243,Ankle / Foot,Plantar Fasciitis,Moderate,Core & Cardio,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_1244,Neck,Whiplash Recovery,Moderate,Upper Body,Keep neck neutral during planks and push-ups
+INJ_1245,Lower Back,Lumbar Strain,Rehabilitating,Pull (Back/Biceps) & Legs,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1246,Neck,Upper Trapezius Spasm,Mild,Upper Body & Core & Cardio,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1247,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1248,Wrist / Elbow,Golfer's Elbow,Moderate,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_1249,Knee,Meniscus Tear (Mild),Mild,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1250,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1251,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body,Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1252,Lower Back,Herniated Disc (Mild),Moderate,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1253,Ankle / Foot,Ankle Sprain,Mild,Legs & Core & Cardio,Substitute standing calf raises with seated
+INJ_1254,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1255,Lower Back,Sciatica,Mild,Legs,Keep spine neutral
+INJ_1256,Lower Back,Herniated Disc (Mild),Moderate,Pull (Back/Biceps),Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1257,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1258,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Full Body,Substitute standing calf raises with seated
+INJ_1259,Lower Back,Muscle Spasm,Moderate,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Avoid twisting core movements
+INJ_1260,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Pull (Back/Biceps) & Upper Body,Keep elbows tucked during push-ups
+INJ_1261,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1262,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Full Body & Legs,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1263,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1264,Neck,Whiplash Recovery,Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1265,Neck,Whiplash Recovery,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1266,Shoulder,AC Joint Sprain,Mild,Full Body,Keep elbows tucked during push-ups
+INJ_1267,Wrist / Elbow,Wrist Sprain,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_1268,Lower Back,Lumbar Strain,Mild,Full Body & Core & Cardio,Keep spine neutral
+INJ_1269,Ankle / Foot,Plantar Fasciitis,Moderate,Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1270,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1271,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Legs & Full Body,Keep knee flexion pain-free
+INJ_1272,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1273,Shoulder,Shoulder Impingement,Rehabilitating,Upper Body & Pull (Back/Biceps),Keep elbows tucked during push-ups
+INJ_1274,Lower Back,Muscle Spasm,Rehabilitating,Core & Cardio & Legs,Keep spine neutral
+INJ_1275,Lower Back,Muscle Spasm,Moderate,Core & Cardio & Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs
+INJ_1276,Lower Back,Lumbar Strain,Moderate,Legs,Substitute sit-ups with planks or bird-dogs
+INJ_1277,Knee,Patellar Tendinitis,Moderate,Legs & Full Body,Avoid deep squatting
+INJ_1278,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid heavy gripping (use straps for pulling)
+INJ_1279,Knee,Knee Osteoarthritis,Chronic/Recurring,Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1280,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1281,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1282,Neck,Cervical Strain,Chronic/Recurring,Upper Body,Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_1283,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1284,Neck,Whiplash Recovery,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1285,Wrist / Elbow,Wrist Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers
+INJ_1286,Ankle / Foot,Ankle Sprain,Moderate,Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1287,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1288,Knee,Meniscus Tear (Mild),Mild,Legs,Avoid deep squatting
+INJ_1289,Shoulder,AC Joint Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1290,Shoulder,Biceps Tendinitis,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Keep elbows tucked during push-ups
+INJ_1291,Knee,Ligament Sprain (ACL/MCL),Mild,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1292,Shoulder,Biceps Tendinitis,Mild,Full Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1293,Knee,Knee Osteoarthritis,Mild,Full Body & Core & Cardio,Avoid deep squatting
+INJ_1294,Lower Back,Lumbar Strain,Mild,Legs,Avoid twisting core movements
+INJ_1295,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Legs & Pull (Back/Biceps),Keep spine neutral
+INJ_1296,Wrist / Elbow,Golfer's Elbow,Moderate,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Use neutral grips (hammer curls instead of regular)
+INJ_1297,Lower Back,Sciatica,Moderate,Legs,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1298,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Pull (Back/Biceps),Keep spine neutral | Avoid twisting core movements
+INJ_1299,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Pull (Back/Biceps),Avoid skull crushers
+INJ_1300,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid heavy barbell shrugs
+INJ_1301,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_1302,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1303,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing
+INJ_1304,Lower Back,Sciatica,Chronic/Recurring,Legs,Keep spine neutral
+INJ_1305,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1306,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1307,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1308,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1309,Knee,Ligament Sprain (ACL/MCL),Mild,Core & Cardio & Full Body,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1310,Wrist / Elbow,TFCC Tear (Mild),Moderate,Pull (Back/Biceps) & Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_1311,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1312,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_1313,Neck,Postural Neck Pain,Rehabilitating,Upper Body,Avoid heavy barbell shrugs
+INJ_1314,Neck,Cervical Strain,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1315,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body,Avoid deep squatting | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1316,Ankle / Foot,Achilles Tendinitis,Mild,Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1317,Neck,Whiplash Recovery,Moderate,Core & Cardio & Upper Body,Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_1318,Shoulder,AC Joint Sprain,Mild,Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1319,Neck,Postural Neck Pain,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1320,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Legs & Core & Cardio,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1321,Ankle / Foot,Shin Splints,Rehabilitating,Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1322,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,Wear supportive footwear during lifts
+INJ_1323,Neck,Postural Neck Pain,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1324,Ankle / Foot,Shin Splints,Moderate,Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1325,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1326,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body & Legs,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1327,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1328,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1329,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1330,Ankle / Foot,Achilles Tendinitis,Moderate,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1331,Shoulder,AC Joint Sprain,Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1332,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1333,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1334,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body,Avoid skull crushers
+INJ_1335,Knee,Meniscus Tear (Mild),Chronic/Recurring,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1336,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_1337,Knee,Knee Osteoarthritis,Chronic/Recurring,Full Body,Keep knee flexion pain-free
+INJ_1338,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Core & Cardio & Legs,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1339,Neck,Cervical Strain,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1340,Knee,Ligament Sprain (ACL/MCL),Moderate,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1341,Lower Back,Sciatica,Chronic/Recurring,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1342,Neck,Postural Neck Pain,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1343,Shoulder,Frozen Shoulder (Mild),Mild,Pull (Back/Biceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1344,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Full Body & Legs,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1345,Neck,Upper Trapezius Spasm,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1346,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio & Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups
+INJ_1347,Lower Back,Sciatica,Moderate,Full Body,Keep spine neutral
+INJ_1348,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1349,Knee,Knee Osteoarthritis,Rehabilitating,Legs & Full Body,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1350,Knee,Meniscus Tear (Mild),Mild,Full Body & Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1351,Knee,Meniscus Tear (Mild),Mild,Legs & Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_1352,Lower Back,SI Joint Dysfunction,Mild,Core & Cardio,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1353,Knee,Knee Osteoarthritis,Mild,Legs & Full Body,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1354,Lower Back,Muscle Spasm,Rehabilitating,Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1355,Ankle / Foot,Flat Feet Pain,Mild,Core & Cardio,Substitute standing calf raises with seated
+INJ_1356,Ankle / Foot,Shin Splints,Rehabilitating,Legs,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1357,Lower Back,Sciatica,Chronic/Recurring,Full Body,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1358,Neck,Postural Neck Pain,Moderate,Upper Body,Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1359,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1360,Neck,Whiplash Recovery,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1361,Lower Back,Herniated Disc (Mild),Rehabilitating,Core & Cardio,Keep spine neutral
+INJ_1362,Ankle / Foot,Shin Splints,Mild,Legs,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_1363,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_1364,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Full Body,Substitute standing calf raises with seated
+INJ_1365,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Full Body,Substitute standing calf raises with seated | Perform cardio on a stationary bike or swimming instead
+INJ_1366,Wrist / Elbow,Wrist Sprain,Rehabilitating,Upper Body & Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1367,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1368,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1369,Wrist / Elbow,Wrist Sprain,Mild,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_1370,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_1371,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain | Avoid crunches where hands pull on the neck
+INJ_1372,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Legs,Avoid heavy deadlifts and bent-over rows
+INJ_1373,Knee,Patellar Tendinitis,Rehabilitating,Core & Cardio & Full Body,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1374,Neck,Postural Neck Pain,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1375,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Avoid heavy barbell shrugs
+INJ_1376,Lower Back,SI Joint Dysfunction,Mild,Full Body,Avoid twisting core movements
+INJ_1377,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1378,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1379,Shoulder,Rotator Cuff Tendinitis,Mild,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1380,Shoulder,Shoulder Impingement,Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1381,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1382,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Full Body,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1383,Neck,Cervical Strain,Chronic/Recurring,Upper Body,Avoid crunches where hands pull on the neck
+INJ_1384,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_1385,Lower Back,Lumbar Strain,Rehabilitating,Pull (Back/Biceps),Keep spine neutral | Avoid twisting core movements
+INJ_1386,Shoulder,Frozen Shoulder (Mild),Moderate,Upper Body,Avoid wide-grip pull-ups
+INJ_1387,Lower Back,Sciatica,Mild,Full Body & Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1388,Knee,Knee Osteoarthritis,Rehabilitating,Core & Cardio & Full Body,Avoid deep squatting
+INJ_1389,Knee,Meniscus Tear (Mild),Moderate,Core & Cardio & Legs,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1390,Ankle / Foot,Achilles Tendinitis,Moderate,Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1391,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Full Body & Legs,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_1392,Neck,Whiplash Recovery,Moderate,Core & Cardio & Upper Body,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1393,Lower Back,SI Joint Dysfunction,Moderate,Core & Cardio & Full Body,Avoid twisting core movements
+INJ_1394,Lower Back,Herniated Disc (Mild),Mild,Pull (Back/Biceps) & Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1395,Ankle / Foot,Achilles Tendinitis,Mild,Legs,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1396,Shoulder,Shoulder Impingement,Chronic/Recurring,Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1397,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1398,Wrist / Elbow,Wrist Sprain,Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1399,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1400,Knee,Knee Osteoarthritis,Moderate,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1401,Neck,Postural Neck Pain,Mild,Core & Cardio & Upper Body,Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1402,Lower Back,SI Joint Dysfunction,Moderate,Pull (Back/Biceps) & Full Body,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1403,Shoulder,AC Joint Sprain,Chronic/Recurring,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1404,Ankle / Foot,Shin Splints,Moderate,Core & Cardio & Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1405,Neck,Cervical Strain,Mild,Core & Cardio,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1406,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1407,Lower Back,Sciatica,Moderate,Core & Cardio & Legs,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1408,Shoulder,Biceps Tendinitis,Moderate,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1409,Shoulder,Biceps Tendinitis,Mild,Upper Body & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1410,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers
+INJ_1411,Shoulder,AC Joint Sprain,Chronic/Recurring,Full Body,Avoid overhead pressing | Keep elbows tucked during push-ups
+INJ_1412,Neck,Whiplash Recovery,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1413,Shoulder,AC Joint Sprain,Moderate,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups
+INJ_1414,Lower Back,SI Joint Dysfunction,Mild,Legs,Avoid twisting core movements | Keep spine neutral
+INJ_1415,Knee,Patellar Tendinitis,Rehabilitating,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1416,Knee,Knee Osteoarthritis,Moderate,Core & Cardio & Legs,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1417,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Core & Cardio & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1418,Lower Back,Sciatica,Chronic/Recurring,Pull (Back/Biceps) & Core & Cardio,Substitute sit-ups with planks or bird-dogs
+INJ_1419,Shoulder,Shoulder Impingement,Mild,Upper Body,Avoid wide-grip pull-ups
+INJ_1420,Neck,Whiplash Recovery,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1421,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_1422,Neck,Postural Neck Pain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1423,Lower Back,Herniated Disc (Mild),Moderate,Pull (Back/Biceps),Avoid twisting core movements
+INJ_1424,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body & Legs,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1425,Shoulder,Shoulder Impingement,Moderate,Pull (Back/Biceps) & Full Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1426,Lower Back,Muscle Spasm,Moderate,Full Body,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1427,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Core & Cardio & Full Body,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1428,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1429,Lower Back,Herniated Disc (Mild),Rehabilitating,Core & Cardio & Legs,Keep spine neutral
+INJ_1430,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_1431,Lower Back,Lumbar Strain,Mild,Pull (Back/Biceps) & Full Body,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1432,Knee,Patellar Tendinitis,Moderate,Legs & Core & Cardio,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1433,Knee,Knee Osteoarthritis,Chronic/Recurring,Core & Cardio & Legs,Avoid deep squatting
+INJ_1434,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1435,Lower Back,Lumbar Strain,Mild,Core & Cardio,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1436,Lower Back,Muscle Spasm,Rehabilitating,Core & Cardio,Substitute sit-ups with planks or bird-dogs | Avoid twisting core movements
+INJ_1437,Lower Back,Sciatica,Moderate,Core & Cardio & Pull (Back/Biceps),Keep spine neutral
+INJ_1438,Neck,Whiplash Recovery,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1439,Lower Back,Lumbar Strain,Mild,Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1440,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1441,Knee,Patellar Tendinitis,Mild,Full Body & Core & Cardio,Avoid deep squatting
+INJ_1442,Ankle / Foot,Ankle Sprain,Rehabilitating,Core & Cardio & Full Body,Substitute standing calf raises with seated
+INJ_1443,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Full Body,Keep spine neutral
+INJ_1444,Lower Back,Sciatica,Chronic/Recurring,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1445,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1446,Neck,Whiplash Recovery,Chronic/Recurring,Core & Cardio,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1447,Neck,Postural Neck Pain,Rehabilitating,Core & Cardio,Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_1448,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1449,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Full Body & Legs,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_1450,Knee,Patellar Tendinitis,Chronic/Recurring,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_1451,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Full Body,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1452,Lower Back,Herniated Disc (Mild),Mild,Legs & Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1453,Knee,Knee Osteoarthritis,Rehabilitating,Legs & Core & Cardio,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1454,Neck,Whiplash Recovery,Chronic/Recurring,Upper Body & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1455,Ankle / Foot,Flat Feet Pain,Moderate,Full Body,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1456,Ankle / Foot,Plantar Fasciitis,Moderate,Legs & Core & Cardio,Wear supportive footwear during lifts
+INJ_1457,Knee,Patellar Tendinitis,Mild,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1458,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1459,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1460,Lower Back,Muscle Spasm,Moderate,Legs & Core & Cardio,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1461,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1462,Neck,Cervical Strain,Mild,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1463,Ankle / Foot,Shin Splints,Chronic/Recurring,Full Body & Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1464,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1465,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio,Avoid deep squatting
+INJ_1466,Shoulder,Shoulder Impingement,Mild,Pull (Back/Biceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1467,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Full Body & Legs,Keep knee flexion pain-free
+INJ_1468,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1469,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1470,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1471,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Core & Cardio,Avoid deep squatting | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1472,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1473,Shoulder,Biceps Tendinitis,Moderate,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1474,Knee,Ligament Sprain (ACL/MCL),Moderate,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1475,Knee,Meniscus Tear (Mild),Moderate,Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_1476,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1477,Neck,Upper Trapezius Spasm,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1478,Neck,Postural Neck Pain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1479,Lower Back,SI Joint Dysfunction,Rehabilitating,Core & Cardio & Legs,Avoid twisting core movements
+INJ_1480,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_1481,Knee,Knee Osteoarthritis,Chronic/Recurring,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1482,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Use neutral grips (hammer curls instead of regular)
+INJ_1483,Knee,Knee Osteoarthritis,Mild,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1484,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1485,Knee,Meniscus Tear (Mild),Mild,Full Body,Keep knee flexion pain-free
+INJ_1486,Lower Back,Herniated Disc (Mild),Mild,Core & Cardio,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1487,Shoulder,Rotator Cuff Tendinitis,Mild,Pull (Back/Biceps),Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1488,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1489,Lower Back,Muscle Spasm,Moderate,Legs & Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs
+INJ_1490,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Full Body & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1491,Shoulder,Rotator Cuff Tendinitis,Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups
+INJ_1492,Shoulder,AC Joint Sprain,Chronic/Recurring,Upper Body,Keep elbows tucked during push-ups
+INJ_1493,Ankle / Foot,Ankle Sprain,Mild,Core & Cardio,Wear supportive footwear during lifts
+INJ_1494,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Core & Cardio & Legs,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1495,Neck,Postural Neck Pain,Chronic/Recurring,Upper Body & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1496,Lower Back,Muscle Spasm,Moderate,Full Body & Legs,Keep spine neutral | Avoid twisting core movements
+INJ_1497,Neck,Cervical Strain,Moderate,Core & Cardio & Upper Body,Avoid heavy barbell shrugs
+INJ_1498,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Legs & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1499,Ankle / Foot,Ankle Sprain,Rehabilitating,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1500,Lower Back,SI Joint Dysfunction,Mild,Legs,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1501,Lower Back,Lumbar Strain,Chronic/Recurring,Core & Cardio,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1502,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1503,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1504,Shoulder,Biceps Tendinitis,Mild,Full Body,Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_1505,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Full Body & Legs,Wear supportive footwear during lifts
+INJ_1506,Shoulder,Shoulder Impingement,Mild,Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups
+INJ_1507,Neck,Cervical Strain,Moderate,Upper Body,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1508,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio,Avoid overhead presses if causing pain
+INJ_1509,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio & Upper Body,Keep neck neutral during planks and push-ups
+INJ_1510,Knee,Patellar Tendinitis,Moderate,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_1511,Shoulder,Biceps Tendinitis,Chronic/Recurring,Full Body,Avoid wide-grip pull-ups
+INJ_1512,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Upper Body,Keep elbows tucked during push-ups
+INJ_1513,Neck,Upper Trapezius Spasm,Mild,Core & Cardio & Upper Body,Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1514,Wrist / Elbow,TFCC Tear (Mild),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers | Use neutral grips (hammer curls instead of regular)
+INJ_1515,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1516,Lower Back,SI Joint Dysfunction,Moderate,Full Body,Avoid heavy deadlifts and bent-over rows
+INJ_1517,Ankle / Foot,Plantar Fasciitis,Moderate,Legs & Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1518,Lower Back,Muscle Spasm,Moderate,Legs,Substitute sit-ups with planks or bird-dogs
+INJ_1519,Shoulder,Biceps Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1520,Ankle / Foot,Shin Splints,Moderate,Core & Cardio,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_1521,Ankle / Foot,Plantar Fasciitis,Mild,Core & Cardio & Full Body,Substitute standing calf raises with seated
+INJ_1522,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Full Body & Legs,Keep knee flexion pain-free
+INJ_1523,Shoulder,Frozen Shoulder (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Full Body,Keep elbows tucked during push-ups | Avoid wide-grip pull-ups
+INJ_1524,Shoulder,Shoulder Impingement,Moderate,Full Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1525,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body,Keep knee flexion pain-free
+INJ_1526,Shoulder,Rotator Cuff Tendinitis,Mild,Full Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1527,Lower Back,Muscle Spasm,Mild,Full Body & Core & Cardio,Keep spine neutral
+INJ_1528,Knee,Ligament Sprain (ACL/MCL),Mild,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1529,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Core & Cardio & Legs,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1530,Lower Back,Sciatica,Moderate,Legs,Keep spine neutral | Avoid twisting core movements
+INJ_1531,Shoulder,Shoulder Impingement,Rehabilitating,Upper Body,Avoid wide-grip pull-ups
+INJ_1532,Lower Back,SI Joint Dysfunction,Mild,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1533,Neck,Cervical Strain,Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1534,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1535,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_1536,Neck,Postural Neck Pain,Moderate,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1537,Wrist / Elbow,TFCC Tear (Mild),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1538,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Core & Cardio,Substitute standing calf raises with seated
+INJ_1539,Ankle / Foot,Shin Splints,Chronic/Recurring,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1540,Wrist / Elbow,Golfer's Elbow,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1541,Ankle / Foot,Plantar Fasciitis,Mild,Core & Cardio & Full Body,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_1542,Lower Back,Herniated Disc (Mild),Moderate,Legs,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1543,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid heavy barbell shrugs
+INJ_1544,Ankle / Foot,Shin Splints,Moderate,Core & Cardio & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1545,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1546,Neck,Postural Neck Pain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1547,Ankle / Foot,Flat Feet Pain,Moderate,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1548,Knee,Meniscus Tear (Mild),Mild,Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1549,Lower Back,Muscle Spasm,Chronic/Recurring,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_1550,Wrist / Elbow,TFCC Tear (Mild),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1551,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1552,Shoulder,AC Joint Sprain,Mild,Push (Chest/Shoulders/Triceps) & Full Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1553,Lower Back,SI Joint Dysfunction,Rehabilitating,Legs,Substitute sit-ups with planks or bird-dogs | Avoid twisting core movements
+INJ_1554,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1555,Knee,Patellar Tendinitis,Mild,Core & Cardio,Keep knee flexion pain-free
+INJ_1556,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1557,Ankle / Foot,Flat Feet Pain,Mild,Legs,Wear supportive footwear during lifts
+INJ_1558,Shoulder,Shoulder Impingement,Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing
+INJ_1559,Ankle / Foot,Plantar Fasciitis,Moderate,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1560,Shoulder,Frozen Shoulder (Mild),Mild,Upper Body,Keep elbows tucked during push-ups
+INJ_1561,Lower Back,SI Joint Dysfunction,Moderate,Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1562,Lower Back,Sciatica,Moderate,Legs,Avoid twisting core movements
+INJ_1563,Ankle / Foot,Flat Feet Pain,Moderate,Full Body & Core & Cardio,"Avoid running, jumping, and high-impact cardio"
+INJ_1564,Knee,Patellar Tendinitis,Moderate,Full Body & Legs,Keep knee flexion pain-free
+INJ_1565,Shoulder,Biceps Tendinitis,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1566,Lower Back,Herniated Disc (Mild),Rehabilitating,Legs & Core & Cardio,Keep spine neutral
+INJ_1567,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio & Full Body,Avoid deep squatting | Keep knee flexion pain-free
+INJ_1568,Neck,Upper Trapezius Spasm,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1569,Shoulder,Shoulder Impingement,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups
+INJ_1570,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1571,Lower Back,Herniated Disc (Mild),Mild,Full Body,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1572,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers
+INJ_1573,Wrist / Elbow,Golfer's Elbow,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1574,Neck,Upper Trapezius Spasm,Rehabilitating,Upper Body & Core & Cardio,Avoid heavy barbell shrugs
+INJ_1575,Shoulder,AC Joint Sprain,Rehabilitating,Pull (Back/Biceps) & Upper Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1576,Shoulder,Shoulder Impingement,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid overhead pressing
+INJ_1577,Neck,Upper Trapezius Spasm,Mild,Core & Cardio,Avoid heavy barbell shrugs
+INJ_1578,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Upper Body,Avoid wide-grip pull-ups
+INJ_1579,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Full Body & Core & Cardio,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_1580,Lower Back,SI Joint Dysfunction,Mild,Pull (Back/Biceps) & Full Body,Avoid twisting core movements
+INJ_1581,Ankle / Foot,Plantar Fasciitis,Mild,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1582,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Pull (Back/Biceps) & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1583,Neck,Whiplash Recovery,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1584,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body,Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1585,Lower Back,Sciatica,Moderate,Legs,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1586,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1587,Lower Back,SI Joint Dysfunction,Mild,Core & Cardio & Legs,Avoid twisting core movements | Keep spine neutral
+INJ_1588,Lower Back,SI Joint Dysfunction,Rehabilitating,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1589,Shoulder,Rotator Cuff Tendinitis,Moderate,Upper Body & Full Body,Keep elbows tucked during push-ups
+INJ_1590,Ankle / Foot,Plantar Fasciitis,Mild,Legs & Core & Cardio,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_1591,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Full Body,Keep elbows tucked during push-ups
+INJ_1592,Lower Back,Sciatica,Chronic/Recurring,Core & Cardio & Full Body,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1593,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1594,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Full Body,Substitute standing calf raises with seated
+INJ_1595,Neck,Cervical Strain,Moderate,Core & Cardio & Upper Body,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1596,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body & Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1597,Neck,Cervical Strain,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1598,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Legs,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1599,Lower Back,Muscle Spasm,Moderate,Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1600,Shoulder,Biceps Tendinitis,Mild,Upper Body,Avoid overhead pressing
+INJ_1601,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Full Body & Core & Cardio,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_1602,Ankle / Foot,Plantar Fasciitis,Mild,Full Body,Substitute standing calf raises with seated
+INJ_1603,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Legs & Core & Cardio,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1604,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1605,Knee,Meniscus Tear (Mild),Moderate,Core & Cardio,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1606,Neck,Upper Trapezius Spasm,Moderate,Upper Body & Core & Cardio,Avoid overhead presses if causing pain
+INJ_1607,Knee,Knee Osteoarthritis,Moderate,Full Body & Core & Cardio,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1608,Shoulder,Shoulder Impingement,Moderate,Pull (Back/Biceps) & Full Body,Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_1609,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid heavy gripping (use straps for pulling)
+INJ_1610,Lower Back,Herniated Disc (Mild),Mild,Pull (Back/Biceps) & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1611,Neck,Upper Trapezius Spasm,Mild,Core & Cardio & Upper Body,Avoid heavy barbell shrugs
+INJ_1612,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Full Body,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1613,Shoulder,AC Joint Sprain,Moderate,Full Body & Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1614,Shoulder,Shoulder Impingement,Rehabilitating,Push (Chest/Shoulders/Triceps) & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1615,Shoulder,Shoulder Impingement,Moderate,Upper Body & Full Body,Keep elbows tucked during push-ups
+INJ_1616,Wrist / Elbow,TFCC Tear (Mild),Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_1617,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain
+INJ_1618,Wrist / Elbow,Golfer's Elbow,Moderate,Pull (Back/Biceps) & Upper Body,Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1619,Knee,Runner's Knee (Patellofemoral Pain),Mild,Legs,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1620,Shoulder,Shoulder Impingement,Rehabilitating,Full Body & Upper Body,Avoid overhead pressing
+INJ_1621,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body,Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1622,Shoulder,AC Joint Sprain,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1623,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1624,Shoulder,Shoulder Impingement,Moderate,Upper Body & Pull (Back/Biceps),Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1625,Ankle / Foot,Plantar Fasciitis,Mild,Legs,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_1626,Knee,Patellar Tendinitis,Moderate,Legs,Avoid deep squatting
+INJ_1627,Lower Back,Lumbar Strain,Chronic/Recurring,Core & Cardio,Avoid twisting core movements
+INJ_1628,Neck,Postural Neck Pain,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_1629,Knee,Meniscus Tear (Mild),Moderate,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_1630,Shoulder,Frozen Shoulder (Mild),Mild,Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1631,Lower Back,Sciatica,Mild,Core & Cardio,Avoid twisting core movements
+INJ_1632,Lower Back,Herniated Disc (Mild),Rehabilitating,Full Body & Core & Cardio,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1633,Lower Back,Sciatica,Moderate,Full Body & Legs,Avoid twisting core movements
+INJ_1634,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1635,Shoulder,Shoulder Impingement,Mild,Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1636,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_1637,Lower Back,Sciatica,Mild,Pull (Back/Biceps) & Full Body,Avoid twisting core movements
+INJ_1638,Neck,Cervical Strain,Rehabilitating,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1639,Shoulder,Biceps Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1640,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1641,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body & Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1642,Lower Back,Muscle Spasm,Chronic/Recurring,Full Body,Avoid heavy deadlifts and bent-over rows
+INJ_1643,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_1644,Ankle / Foot,Achilles Tendinitis,Moderate,Core & Cardio,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_1645,Lower Back,Lumbar Strain,Rehabilitating,Core & Cardio,Keep spine neutral | Avoid twisting core movements
+INJ_1646,Knee,Ligament Sprain (ACL/MCL),Moderate,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1647,Shoulder,Biceps Tendinitis,Mild,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1648,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps) & Full Body,Keep elbows tucked during push-ups
+INJ_1649,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body,Avoid deep squatting
+INJ_1650,Knee,Patellar Tendinitis,Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1651,Lower Back,Herniated Disc (Mild),Mild,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1652,Lower Back,SI Joint Dysfunction,Rehabilitating,Full Body,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1653,Ankle / Foot,Shin Splints,Moderate,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1654,Wrist / Elbow,Wrist Sprain,Moderate,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1655,Knee,Meniscus Tear (Mild),Rehabilitating,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1656,Shoulder,Frozen Shoulder (Mild),Mild,Upper Body & Full Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_1657,Ankle / Foot,Shin Splints,Rehabilitating,Core & Cardio & Legs,Wear supportive footwear during lifts
+INJ_1658,Shoulder,Shoulder Impingement,Mild,Full Body,Keep elbows tucked during push-ups
+INJ_1659,Wrist / Elbow,Golfer's Elbow,Mild,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_1660,Shoulder,AC Joint Sprain,Chronic/Recurring,Pull (Back/Biceps) & Full Body,Avoid wide-grip pull-ups
+INJ_1661,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1662,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1663,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1664,Neck,Whiplash Recovery,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1665,Shoulder,AC Joint Sprain,Moderate,Full Body & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups
+INJ_1666,Knee,Meniscus Tear (Mild),Mild,Full Body,Avoid deep squatting
+INJ_1667,Shoulder,AC Joint Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1668,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1669,Wrist / Elbow,Golfer's Elbow,Mild,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1670,Neck,Cervical Strain,Mild,Upper Body,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1671,Lower Back,Lumbar Strain,Chronic/Recurring,Pull (Back/Biceps),Substitute sit-ups with planks or bird-dogs
+INJ_1672,Knee,Knee Osteoarthritis,Chronic/Recurring,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1673,Ankle / Foot,Flat Feet Pain,Mild,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1674,Neck,Cervical Strain,Mild,Core & Cardio & Upper Body,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1675,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Full Body & Pull (Back/Biceps),Keep elbows tucked during push-ups
+INJ_1676,Ankle / Foot,Flat Feet Pain,Mild,Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1677,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1678,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Full Body & Core & Cardio,Wear supportive footwear during lifts
+INJ_1679,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body,Avoid deep squatting
+INJ_1680,Ankle / Foot,Flat Feet Pain,Mild,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1681,Lower Back,Sciatica,Chronic/Recurring,Core & Cardio & Legs,Avoid twisting core movements
+INJ_1682,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1683,Shoulder,Biceps Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1684,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid skull crushers | Use neutral grips (hammer curls instead of regular)
+INJ_1685,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs,"Avoid running, jumping, and high-impact cardio | Wear supportive footwear during lifts"
+INJ_1686,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs & Full Body,Substitute standing calf raises with seated | Perform cardio on a stationary bike or swimming instead
+INJ_1687,Lower Back,Herniated Disc (Mild),Rehabilitating,Full Body,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1688,Shoulder,AC Joint Sprain,Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid overhead pressing
+INJ_1689,Ankle / Foot,Flat Feet Pain,Moderate,Full Body,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_1690,Knee,Patellar Tendinitis,Chronic/Recurring,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1691,Lower Back,Muscle Spasm,Mild,Legs,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1692,Lower Back,SI Joint Dysfunction,Chronic/Recurring,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1693,Lower Back,Sciatica,Chronic/Recurring,Legs,Keep spine neutral
+INJ_1694,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Pull (Back/Biceps) & Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_1695,Knee,Meniscus Tear (Mild),Moderate,Legs & Full Body,Avoid deep squatting
+INJ_1696,Neck,Whiplash Recovery,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1697,Lower Back,SI Joint Dysfunction,Moderate,Pull (Back/Biceps) & Legs,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1698,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Legs & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_1699,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1700,Shoulder,Biceps Tendinitis,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1701,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Core & Cardio & Full Body,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_1702,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio & Legs,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_1703,Lower Back,Lumbar Strain,Moderate,Core & Cardio,Keep spine neutral | Avoid twisting core movements
+INJ_1704,Knee,Patellar Tendinitis,Moderate,Full Body,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1705,Shoulder,AC Joint Sprain,Chronic/Recurring,Full Body & Upper Body,Avoid overhead pressing
+INJ_1706,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1707,Neck,Whiplash Recovery,Moderate,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1708,Ankle / Foot,Flat Feet Pain,Rehabilitating,Full Body,Substitute standing calf raises with seated
+INJ_1709,Lower Back,Lumbar Strain,Mild,Core & Cardio,Avoid twisting core movements
+INJ_1710,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Keep neck neutral during planks and push-ups
+INJ_1711,Ankle / Foot,Shin Splints,Mild,Full Body & Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1712,Shoulder,AC Joint Sprain,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1713,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1714,Knee,Ligament Sprain (ACL/MCL),Mild,Core & Cardio & Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1715,Shoulder,Shoulder Impingement,Chronic/Recurring,Full Body,Avoid overhead pressing
+INJ_1716,Wrist / Elbow,TFCC Tear (Mild),Moderate,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1717,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1718,Knee,Ligament Sprain (ACL/MCL),Moderate,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1719,Neck,Upper Trapezius Spasm,Moderate,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1720,Ankle / Foot,Ankle Sprain,Rehabilitating,Core & Cardio & Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1721,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1722,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body & Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1723,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_1724,Shoulder,Frozen Shoulder (Mild),Mild,Full Body,Keep elbows tucked during push-ups
+INJ_1725,Ankle / Foot,Ankle Sprain,Rehabilitating,Full Body,Wear supportive footwear during lifts
+INJ_1726,Ankle / Foot,Ankle Sprain,Rehabilitating,Core & Cardio & Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1727,Lower Back,Lumbar Strain,Chronic/Recurring,Full Body & Pull (Back/Biceps),Avoid twisting core movements
+INJ_1728,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_1729,Lower Back,Lumbar Strain,Chronic/Recurring,Core & Cardio & Full Body,Keep spine neutral | Avoid twisting core movements
+INJ_1730,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Full Body & Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1731,Knee,Meniscus Tear (Mild),Mild,Legs,Avoid deep squatting
+INJ_1732,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1733,Lower Back,Herniated Disc (Mild),Rehabilitating,Full Body & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1734,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1735,Ankle / Foot,Flat Feet Pain,Rehabilitating,Legs & Full Body,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_1736,Wrist / Elbow,Wrist Sprain,Mild,Upper Body,Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1737,Ankle / Foot,Shin Splints,Mild,Legs & Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1738,Shoulder,Shoulder Impingement,Moderate,Upper Body,Avoid wide-grip pull-ups
+INJ_1739,Wrist / Elbow,Wrist Sprain,Rehabilitating,Upper Body,Avoid skull crushers
+INJ_1740,Knee,Knee Osteoarthritis,Moderate,Full Body & Legs,Keep knee flexion pain-free
+INJ_1741,Shoulder,AC Joint Sprain,Mild,Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1742,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Upper Body & Pull (Back/Biceps),Avoid skull crushers
+INJ_1743,Shoulder,Biceps Tendinitis,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1744,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_1745,Lower Back,Lumbar Strain,Rehabilitating,Full Body & Pull (Back/Biceps),Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1746,Neck,Upper Trapezius Spasm,Rehabilitating,Core & Cardio,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1747,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Core & Cardio,Keep spine neutral
+INJ_1748,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1749,Ankle / Foot,Shin Splints,Rehabilitating,Legs,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_1750,Lower Back,Muscle Spasm,Rehabilitating,Core & Cardio & Pull (Back/Biceps),Keep spine neutral
+INJ_1751,Lower Back,Sciatica,Mild,Core & Cardio,Avoid twisting core movements | Keep spine neutral
+INJ_1752,Shoulder,Shoulder Impingement,Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_1753,Knee,Knee Osteoarthritis,Mild,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1754,Knee,Patellar Tendinitis,Moderate,Legs & Full Body,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1755,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid heavy gripping (use straps for pulling)
+INJ_1756,Shoulder,AC Joint Sprain,Chronic/Recurring,Pull (Back/Biceps) & Full Body,Avoid wide-grip pull-ups
+INJ_1757,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Full Body,Keep knee flexion pain-free
+INJ_1758,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio,Keep knee flexion pain-free
+INJ_1759,Knee,Meniscus Tear (Mild),Moderate,Full Body,Keep knee flexion pain-free | Avoid deep squatting
+INJ_1760,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling)
+INJ_1761,Knee,Knee Osteoarthritis,Moderate,Core & Cardio & Full Body,Avoid deep squatting | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1762,Ankle / Foot,Shin Splints,Chronic/Recurring,Legs & Core & Cardio,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_1763,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1764,Lower Back,Herniated Disc (Mild),Mild,Full Body,Keep spine neutral
+INJ_1765,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_1766,Wrist / Elbow,Golfer's Elbow,Mild,Pull (Back/Biceps),Avoid skull crushers | Use neutral grips (hammer curls instead of regular)
+INJ_1767,Ankle / Foot,Shin Splints,Mild,Core & Cardio & Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1768,Shoulder,Frozen Shoulder (Mild),Moderate,Upper Body & Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1769,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio & Legs,Keep knee flexion pain-free
+INJ_1770,Lower Back,Muscle Spasm,Moderate,Legs,Avoid heavy deadlifts and bent-over rows
+INJ_1771,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Core & Cardio,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1772,Ankle / Foot,Flat Feet Pain,Mild,Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_1773,Ankle / Foot,Shin Splints,Mild,Core & Cardio & Full Body,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1774,Neck,Whiplash Recovery,Mild,Upper Body,Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1775,Lower Back,SI Joint Dysfunction,Mild,Legs & Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1776,Neck,Postural Neck Pain,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1777,Shoulder,Rotator Cuff Tendinitis,Mild,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1778,Shoulder,Biceps Tendinitis,Rehabilitating,Upper Body,Avoid overhead pressing
+INJ_1779,Shoulder,Shoulder Impingement,Mild,Upper Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1780,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1781,Lower Back,Herniated Disc (Mild),Mild,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_1782,Lower Back,Sciatica,Rehabilitating,Full Body,Keep spine neutral
+INJ_1783,Lower Back,Muscle Spasm,Moderate,Core & Cardio,Substitute sit-ups with planks or bird-dogs
+INJ_1784,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Legs & Core & Cardio,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_1785,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Pull (Back/Biceps) & Legs,Avoid heavy deadlifts and bent-over rows
+INJ_1786,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio,Keep knee flexion pain-free
+INJ_1787,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain
+INJ_1788,Neck,Postural Neck Pain,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1789,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1790,Wrist / Elbow,Wrist Sprain,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1791,Ankle / Foot,Achilles Tendinitis,Mild,Core & Cardio & Legs,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1792,Shoulder,Biceps Tendinitis,Chronic/Recurring,Full Body & Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1793,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio & Upper Body,Avoid overhead presses if causing pain
+INJ_1794,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Full Body & Upper Body,Avoid overhead pressing | Keep elbows tucked during push-ups
+INJ_1795,Lower Back,SI Joint Dysfunction,Moderate,Pull (Back/Biceps) & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1796,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1797,Knee,Meniscus Tear (Mild),Moderate,Legs & Core & Cardio,Avoid deep squatting
+INJ_1798,Lower Back,Sciatica,Moderate,Pull (Back/Biceps) & Core & Cardio,Substitute sit-ups with planks or bird-dogs
+INJ_1799,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1800,Ankle / Foot,Shin Splints,Chronic/Recurring,Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1801,Lower Back,Muscle Spasm,Moderate,Legs & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_1802,Neck,Whiplash Recovery,Chronic/Recurring,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1803,Knee,Knee Osteoarthritis,Moderate,Core & Cardio,Keep knee flexion pain-free
+INJ_1804,Lower Back,SI Joint Dysfunction,Mild,Legs,Avoid twisting core movements
+INJ_1805,Knee,Knee Osteoarthritis,Rehabilitating,Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1806,Shoulder,Shoulder Impingement,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_1807,Ankle / Foot,Shin Splints,Moderate,Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1808,Shoulder,Frozen Shoulder (Mild),Moderate,Upper Body,Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1809,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1810,Lower Back,Muscle Spasm,Moderate,Core & Cardio,Substitute sit-ups with planks or bird-dogs
+INJ_1811,Knee,Ligament Sprain (ACL/MCL),Mild,Full Body,Avoid deep squatting
+INJ_1812,Wrist / Elbow,Wrist Sprain,Moderate,Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_1813,Knee,Patellar Tendinitis,Chronic/Recurring,Legs,Avoid deep squatting
+INJ_1814,Neck,Whiplash Recovery,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1815,Knee,Patellar Tendinitis,Moderate,Full Body & Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1816,Shoulder,AC Joint Sprain,Chronic/Recurring,Upper Body,Avoid wide-grip pull-ups
+INJ_1817,Shoulder,Shoulder Impingement,Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_1818,Knee,Knee Osteoarthritis,Mild,Full Body & Legs,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1819,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid skull crushers
+INJ_1820,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body,Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1821,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid skull crushers
+INJ_1822,Ankle / Foot,Shin Splints,Moderate,Core & Cardio,Wear supportive footwear during lifts
+INJ_1823,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1824,Lower Back,Herniated Disc (Mild),Moderate,Full Body & Legs,Substitute sit-ups with planks or bird-dogs
+INJ_1825,Wrist / Elbow,Wrist Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1826,Neck,Whiplash Recovery,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1827,Knee,Meniscus Tear (Mild),Mild,Full Body & Core & Cardio,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1828,Shoulder,Shoulder Impingement,Mild,Pull (Back/Biceps),Avoid overhead pressing
+INJ_1829,Ankle / Foot,Plantar Fasciitis,Moderate,Full Body & Legs,Perform cardio on a stationary bike or swimming instead
+INJ_1830,Ankle / Foot,Flat Feet Pain,Moderate,Legs & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_1831,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1832,Shoulder,Frozen Shoulder (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Keep elbows tucked during push-ups
+INJ_1833,Lower Back,Muscle Spasm,Rehabilitating,Pull (Back/Biceps) & Legs,Avoid twisting core movements
+INJ_1834,Shoulder,Shoulder Impingement,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_1835,Neck,Postural Neck Pain,Mild,Core & Cardio,Avoid heavy barbell shrugs
+INJ_1836,Ankle / Foot,Flat Feet Pain,Mild,Full Body & Legs,Substitute standing calf raises with seated
+INJ_1837,Wrist / Elbow,Wrist Sprain,Moderate,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1838,Shoulder,AC Joint Sprain,Rehabilitating,Full Body,Keep elbows tucked during push-ups
+INJ_1839,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1840,Shoulder,Shoulder Impingement,Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_1841,Knee,Ligament Sprain (ACL/MCL),Mild,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1842,Shoulder,AC Joint Sprain,Mild,Upper Body,Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1843,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Core & Cardio & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1844,Neck,Whiplash Recovery,Rehabilitating,Upper Body,Avoid overhead presses if causing pain
+INJ_1845,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1846,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Legs & Full Body,Wear supportive footwear during lifts
+INJ_1847,Ankle / Foot,Flat Feet Pain,Moderate,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1848,Neck,Whiplash Recovery,Mild,Upper Body,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1849,Shoulder,Biceps Tendinitis,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead pressing
+INJ_1850,Neck,Whiplash Recovery,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid overhead presses if causing pain
+INJ_1851,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1852,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1853,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Full Body & Core & Cardio,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1854,Knee,Patellar Tendinitis,Mild,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1855,Ankle / Foot,Shin Splints,Moderate,Core & Cardio & Legs,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_1856,Neck,Whiplash Recovery,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_1857,Neck,Upper Trapezius Spasm,Chronic/Recurring,Upper Body,Avoid overhead presses if causing pain
+INJ_1858,Lower Back,Lumbar Strain,Moderate,Core & Cardio & Legs,Substitute sit-ups with planks or bird-dogs
+INJ_1859,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Legs & Core & Cardio,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_1860,Neck,Cervical Strain,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1861,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1862,Lower Back,Sciatica,Rehabilitating,Legs & Full Body,Avoid heavy deadlifts and bent-over rows
+INJ_1863,Shoulder,Shoulder Impingement,Rehabilitating,Full Body,Keep elbows tucked during push-ups
+INJ_1864,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1865,Ankle / Foot,Shin Splints,Rehabilitating,Core & Cardio,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_1866,Ankle / Foot,Flat Feet Pain,Moderate,Full Body & Core & Cardio,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1867,Wrist / Elbow,Wrist Sprain,Mild,Pull (Back/Biceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1868,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1869,Knee,Knee Osteoarthritis,Chronic/Recurring,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1870,Shoulder,AC Joint Sprain,Mild,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1871,Shoulder,AC Joint Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_1872,Lower Back,Muscle Spasm,Moderate,Full Body & Pull (Back/Biceps),Avoid twisting core movements
+INJ_1873,Ankle / Foot,Shin Splints,Rehabilitating,Full Body,Wear supportive footwear during lifts
+INJ_1874,Wrist / Elbow,TFCC Tear (Mild),Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1875,Lower Back,Sciatica,Moderate,Legs,Avoid twisting core movements
+INJ_1876,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1877,Knee,Knee Osteoarthritis,Chronic/Recurring,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1878,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Full Body,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1879,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body,Avoid skull crushers
+INJ_1880,Lower Back,Herniated Disc (Mild),Moderate,Legs,Keep spine neutral
+INJ_1881,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs,Wear supportive footwear during lifts
+INJ_1882,Shoulder,Shoulder Impingement,Moderate,Upper Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1883,Wrist / Elbow,Golfer's Elbow,Mild,Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1884,Shoulder,AC Joint Sprain,Rehabilitating,Pull (Back/Biceps) & Full Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1885,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Full Body,Wear supportive footwear during lifts
+INJ_1886,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1887,Wrist / Elbow,Golfer's Elbow,Mild,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_1888,Knee,Runner's Knee (Patellofemoral Pain),Moderate,Legs & Full Body,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1889,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body & Legs,Avoid deep squatting
+INJ_1890,Neck,Whiplash Recovery,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_1891,Ankle / Foot,Shin Splints,Mild,Legs & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_1892,Lower Back,Muscle Spasm,Mild,Pull (Back/Biceps),Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_1893,Shoulder,AC Joint Sprain,Mild,Upper Body & Full Body,Keep elbows tucked during push-ups
+INJ_1894,Ankle / Foot,Ankle Sprain,Mild,Full Body,Wear supportive footwear during lifts
+INJ_1895,Wrist / Elbow,Golfer's Elbow,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_1896,Neck,Upper Trapezius Spasm,Moderate,Core & Cardio & Upper Body,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1897,Lower Back,Muscle Spasm,Moderate,Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1898,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing
+INJ_1899,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Keep spine neutral | Avoid twisting core movements
+INJ_1900,Knee,Meniscus Tear (Mild),Moderate,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_1901,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1902,Neck,Upper Trapezius Spasm,Rehabilitating,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1903,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid skull crushers
+INJ_1904,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Legs & Core & Cardio,Avoid deep squatting
+INJ_1905,Neck,Cervical Strain,Chronic/Recurring,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1906,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1907,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1908,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1909,Shoulder,Frozen Shoulder (Mild),Mild,Pull (Back/Biceps) & Full Body,Avoid overhead pressing
+INJ_1910,Lower Back,SI Joint Dysfunction,Moderate,Legs,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_1911,Lower Back,Herniated Disc (Mild),Moderate,Core & Cardio & Full Body,Keep spine neutral
+INJ_1912,Shoulder,Shoulder Impingement,Moderate,Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1913,Neck,Cervical Strain,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1914,Neck,Whiplash Recovery,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1915,Knee,Meniscus Tear (Mild),Rehabilitating,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1916,Knee,Patellar Tendinitis,Chronic/Recurring,Full Body,Keep knee flexion pain-free
+INJ_1917,Lower Back,Lumbar Strain,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows
+INJ_1918,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1919,Lower Back,Muscle Spasm,Rehabilitating,Core & Cardio,Keep spine neutral
+INJ_1920,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1921,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Full Body & Core & Cardio,Keep spine neutral
+INJ_1922,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Chronic/Recurring,Upper Body,Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1923,Ankle / Foot,Flat Feet Pain,Mild,Legs,Substitute standing calf raises with seated
+INJ_1924,Neck,Upper Trapezius Spasm,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1925,Lower Back,Muscle Spasm,Moderate,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1926,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_1927,Lower Back,Muscle Spasm,Chronic/Recurring,Full Body & Legs,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1928,Neck,Upper Trapezius Spasm,Rehabilitating,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1929,Knee,Patellar Tendinitis,Moderate,Full Body & Core & Cardio,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1930,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_1931,Neck,Postural Neck Pain,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1932,Shoulder,AC Joint Sprain,Chronic/Recurring,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1933,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio & Upper Body,Avoid overhead presses if causing pain
+INJ_1934,Lower Back,SI Joint Dysfunction,Mild,Legs,Avoid twisting core movements
+INJ_1935,Knee,Knee Osteoarthritis,Rehabilitating,Full Body & Legs,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1936,Neck,Upper Trapezius Spasm,Moderate,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_1937,Wrist / Elbow,Wrist Sprain,Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_1938,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_1939,Lower Back,SI Joint Dysfunction,Mild,Legs,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1940,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs | Avoid heavy deadlifts and bent-over rows
+INJ_1941,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Full Body,"Avoid running, jumping, and high-impact cardio"
+INJ_1942,Wrist / Elbow,Wrist Sprain,Moderate,Pull (Back/Biceps) & Upper Body,Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1943,Knee,Meniscus Tear (Mild),Mild,Full Body & Core & Cardio,"Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_1944,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1945,Wrist / Elbow,Golfer's Elbow,Moderate,Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid skull crushers
+INJ_1946,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Core & Cardio & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1947,Knee,Ligament Sprain (ACL/MCL),Moderate,Legs & Core & Cardio,Keep knee flexion pain-free
+INJ_1948,Neck,Cervical Strain,Moderate,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_1949,Ankle / Foot,Ankle Sprain,Mild,Core & Cardio & Legs,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1950,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Legs & Full Body,Wear supportive footwear during lifts
+INJ_1951,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio & Upper Body,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_1952,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_1953,Wrist / Elbow,Wrist Sprain,Rehabilitating,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_1954,Neck,Upper Trapezius Spasm,Moderate,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_1955,Neck,Postural Neck Pain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_1956,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups
+INJ_1957,Lower Back,SI Joint Dysfunction,Moderate,Core & Cardio & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1958,Shoulder,Frozen Shoulder (Mild),Moderate,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1959,Shoulder,Biceps Tendinitis,Mild,Upper Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_1960,Shoulder,Rotator Cuff Tendinitis,Mild,Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_1961,Knee,Patellar Tendinitis,Rehabilitating,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_1962,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_1963,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps) & Upper Body,Keep elbows tucked during push-ups
+INJ_1964,Lower Back,Lumbar Strain,Mild,Full Body,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1965,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Legs & Core & Cardio,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1966,Lower Back,Muscle Spasm,Rehabilitating,Core & Cardio & Legs,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_1967,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_1968,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_1969,Neck,Postural Neck Pain,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_1970,Lower Back,Muscle Spasm,Chronic/Recurring,Full Body & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_1971,Shoulder,Biceps Tendinitis,Chronic/Recurring,Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_1972,Lower Back,Sciatica,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1973,Neck,Upper Trapezius Spasm,Rehabilitating,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_1974,Neck,Cervical Strain,Chronic/Recurring,Core & Cardio & Upper Body,Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_1975,Neck,Whiplash Recovery,Chronic/Recurring,Upper Body,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1976,Shoulder,AC Joint Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead pressing
+INJ_1977,Shoulder,Biceps Tendinitis,Mild,Upper Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_1978,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_1979,Lower Back,Lumbar Strain,Rehabilitating,Full Body,Keep spine neutral
+INJ_1980,Ankle / Foot,Plantar Fasciitis,Mild,Core & Cardio & Full Body,Substitute standing calf raises with seated
+INJ_1981,Ankle / Foot,Shin Splints,Chronic/Recurring,Legs & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_1982,Neck,Cervical Strain,Rehabilitating,Core & Cardio,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1983,Lower Back,Herniated Disc (Mild),Mild,Legs & Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows
+INJ_1984,Wrist / Elbow,Wrist Sprain,Moderate,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling)
+INJ_1985,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_1986,Neck,Cervical Strain,Moderate,Upper Body & Core & Cardio,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_1987,Lower Back,Sciatica,Mild,Pull (Back/Biceps),Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_1988,Knee,Ligament Sprain (ACL/MCL),Moderate,Core & Cardio,Keep knee flexion pain-free
+INJ_1989,Ankle / Foot,Achilles Tendinitis,Moderate,Core & Cardio & Full Body,Substitute standing calf raises with seated
+INJ_1990,Shoulder,Rotator Cuff Tendinitis,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups | Avoid wide-grip pull-ups
+INJ_1991,Lower Back,Herniated Disc (Mild),Rehabilitating,Legs & Core & Cardio,Avoid heavy deadlifts and bent-over rows
+INJ_1992,Neck,Whiplash Recovery,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_1993,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling)
+INJ_1994,Lower Back,Lumbar Strain,Chronic/Recurring,Legs & Core & Cardio,Avoid heavy deadlifts and bent-over rows | Avoid twisting core movements
+INJ_1995,Ankle / Foot,Achilles Tendinitis,Mild,Full Body & Legs,Wear supportive footwear during lifts
+INJ_1996,Knee,Runner's Knee (Patellofemoral Pain),Rehabilitating,Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_1997,Knee,Ligament Sprain (ACL/MCL),Moderate,Legs & Core & Cardio,Avoid deep squatting
+INJ_1998,Shoulder,Shoulder Impingement,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead pressing
+INJ_1999,Shoulder,Biceps Tendinitis,Mild,Full Body,Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_2000,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio & Full Body,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2001,Ankle / Foot,Flat Feet Pain,Moderate,Full Body & Legs,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_2002,Knee,Meniscus Tear (Mild),Chronic/Recurring,Legs,Avoid deep squatting
+INJ_2003,Knee,Meniscus Tear (Mild),Rehabilitating,Legs,Keep knee flexion pain-free
+INJ_2004,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Core & Cardio & Legs,Perform cardio on a stationary bike or swimming instead
+INJ_2005,Knee,Ligament Sprain (ACL/MCL),Chronic/Recurring,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_2006,Ankle / Foot,Plantar Fasciitis,Mild,Legs & Full Body,Wear supportive footwear during lifts
+INJ_2007,Ankle / Foot,Shin Splints,Moderate,Core & Cardio & Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_2008,Shoulder,AC Joint Sprain,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid wide-grip pull-ups
+INJ_2009,Ankle / Foot,Achilles Tendinitis,Moderate,Legs & Full Body,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_2010,Knee,Ligament Sprain (ACL/MCL),Mild,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_2011,Shoulder,Biceps Tendinitis,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead pressing
+INJ_2012,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Full Body & Pull (Back/Biceps),Avoid wide-grip pull-ups
+INJ_2013,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Core & Cardio & Legs,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_2014,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2015,Knee,Meniscus Tear (Mild),Chronic/Recurring,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_2016,Neck,Cervical Strain,Moderate,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_2017,Knee,Meniscus Tear (Mild),Chronic/Recurring,Core & Cardio & Legs,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2018,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2019,Knee,Meniscus Tear (Mild),Chronic/Recurring,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Avoid deep squatting"
+INJ_2020,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Upper Body,Avoid wide-grip pull-ups
+INJ_2021,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling)
+INJ_2022,Lower Back,Muscle Spasm,Rehabilitating,Pull (Back/Biceps) & Legs,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_2023,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Legs & Core & Cardio,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Avoid deep squatting
+INJ_2024,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_2025,Neck,Upper Trapezius Spasm,Moderate,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_2026,Shoulder,Shoulder Impingement,Moderate,Upper Body & Pull (Back/Biceps),Avoid overhead pressing
+INJ_2027,Ankle / Foot,Ankle Sprain,Moderate,Core & Cardio & Legs,"Avoid running, jumping, and high-impact cardio"
+INJ_2028,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Pull (Back/Biceps) & Upper Body,Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2029,Neck,Upper Trapezius Spasm,Chronic/Recurring,Core & Cardio,Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_2030,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Legs & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_2031,Wrist / Elbow,Golfer's Elbow,Mild,Upper Body,Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_2032,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Upper Body,Avoid heavy gripping (use straps for pulling)
+INJ_2033,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2034,Shoulder,AC Joint Sprain,Chronic/Recurring,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_2035,Ankle / Foot,Flat Feet Pain,Mild,Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_2036,Shoulder,AC Joint Sprain,Mild,Full Body,Avoid overhead pressing
+INJ_2037,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_2038,Neck,Postural Neck Pain,Mild,Core & Cardio,Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_2039,Neck,Cervical Strain,Rehabilitating,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups | Avoid heavy barbell shrugs
+INJ_2040,Knee,Meniscus Tear (Mild),Moderate,Legs,Keep knee flexion pain-free | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_2041,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Use neutral grips (hammer curls instead of regular)
+INJ_2042,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_2043,Shoulder,AC Joint Sprain,Rehabilitating,Pull (Back/Biceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_2044,Ankle / Foot,Plantar Fasciitis,Moderate,Core & Cardio,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_2045,Ankle / Foot,Shin Splints,Rehabilitating,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_2046,Neck,Postural Neck Pain,Mild,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_2047,Neck,Whiplash Recovery,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_2048,Ankle / Foot,Flat Feet Pain,Moderate,Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_2049,Neck,Postural Neck Pain,Moderate,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_2050,Neck,Postural Neck Pain,Mild,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_2051,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2052,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_2053,Knee,Knee Osteoarthritis,Moderate,Legs,Keep knee flexion pain-free
+INJ_2054,Lower Back,Muscle Spasm,Rehabilitating,Pull (Back/Biceps) & Core & Cardio,Avoid twisting core movements | Keep spine neutral
+INJ_2055,Shoulder,AC Joint Sprain,Moderate,Push (Chest/Shoulders/Triceps) & Full Body,Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_2056,Lower Back,Lumbar Strain,Chronic/Recurring,Full Body & Pull (Back/Biceps),Avoid twisting core movements
+INJ_2057,Neck,Postural Neck Pain,Rehabilitating,Upper Body & Core & Cardio,Avoid overhead presses if causing pain
+INJ_2058,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Core & Cardio & Legs,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_2059,Ankle / Foot,Ankle Sprain,Mild,Core & Cardio,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_2060,Knee,Meniscus Tear (Mild),Mild,Core & Cardio,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2061,Wrist / Elbow,Wrist Sprain,Mild,Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular) | Avoid heavy gripping (use straps for pulling)
+INJ_2062,Wrist / Elbow,TFCC Tear (Mild),Moderate,Pull (Back/Biceps),Avoid skull crushers | Use neutral grips (hammer curls instead of regular)
+INJ_2063,Ankle / Foot,Flat Feet Pain,Mild,Legs,Wear supportive footwear during lifts
+INJ_2064,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Core & Cardio & Full Body,Substitute standing calf raises with seated
+INJ_2065,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body,Keep knee flexion pain-free
+INJ_2066,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Upper Body & Pull (Back/Biceps),Use neutral grips (hammer curls instead of regular)
+INJ_2067,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Full Body & Pull (Back/Biceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_2068,Shoulder,Frozen Shoulder (Mild),Mild,Upper Body & Full Body,Avoid overhead pressing
+INJ_2069,Shoulder,Shoulder Impingement,Moderate,Pull (Back/Biceps) & Upper Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_2070,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Moderate,Push (Chest/Shoulders/Triceps),Use neutral grips (hammer curls instead of regular)
+INJ_2071,Knee,Patellar Tendinitis,Rehabilitating,Legs,Keep knee flexion pain-free
+INJ_2072,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Full Body,Wear supportive footwear during lifts
+INJ_2073,Neck,Upper Trapezius Spasm,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_2074,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Core & Cardio & Legs,Wear supportive footwear during lifts
+INJ_2075,Ankle / Foot,Achilles Tendinitis,Mild,Full Body & Core & Cardio,Substitute standing calf raises with seated
+INJ_2076,Knee,Runner's Knee (Patellofemoral Pain),Mild,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_2077,Lower Back,Muscle Spasm,Moderate,Legs,Avoid twisting core movements
+INJ_2078,Neck,Postural Neck Pain,Chronic/Recurring,Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_2079,Knee,Patellar Tendinitis,Mild,Core & Cardio & Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_2080,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Legs,Substitute standing calf raises with seated
+INJ_2081,Shoulder,Biceps Tendinitis,Mild,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups
+INJ_2082,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Full Body & Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2083,Shoulder,Shoulder Impingement,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_2084,Knee,Runner's Knee (Patellofemoral Pain),Mild,Full Body & Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_2085,Neck,Whiplash Recovery,Rehabilitating,Upper Body,Avoid overhead presses if causing pain
+INJ_2086,Neck,Cervical Strain,Mild,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_2087,Ankle / Foot,Ankle Sprain,Rehabilitating,Legs & Core & Cardio,Substitute standing calf raises with seated
+INJ_2088,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Core & Cardio,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_2089,Neck,Postural Neck Pain,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_2090,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_2091,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Pull (Back/Biceps) & Upper Body,Avoid skull crushers
+INJ_2092,Neck,Postural Neck Pain,Moderate,Core & Cardio,Avoid crunches where hands pull on the neck | Avoid heavy barbell shrugs
+INJ_2093,Neck,Whiplash Recovery,Rehabilitating,Upper Body,Keep neck neutral during planks and push-ups | Avoid crunches where hands pull on the neck
+INJ_2094,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2095,Neck,Whiplash Recovery,Moderate,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_2096,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Push (Chest/Shoulders/Triceps) & Full Body,Avoid overhead pressing
+INJ_2097,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body & Full Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_2098,Ankle / Foot,Plantar Fasciitis,Rehabilitating,Full Body,"Avoid running, jumping, and high-impact cardio | Substitute standing calf raises with seated"
+INJ_2099,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_2100,Shoulder,Shoulder Impingement,Chronic/Recurring,Full Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_2101,Lower Back,Muscle Spasm,Chronic/Recurring,Core & Cardio,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_2102,Wrist / Elbow,Golfer's Elbow,Mild,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2103,Shoulder,Rotator Cuff Tendinitis,Mild,Pull (Back/Biceps) & Full Body,Substitute barbell bench with neutral-grip dumbbell press | Keep elbows tucked during push-ups
+INJ_2104,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Full Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_2105,Shoulder,Biceps Tendinitis,Mild,Upper Body,Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_2106,Ankle / Foot,Flat Feet Pain,Rehabilitating,Core & Cardio,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_2107,Neck,Upper Trapezius Spasm,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid crunches where hands pull on the neck | Keep neck neutral during planks and push-ups
+INJ_2108,Neck,Postural Neck Pain,Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_2109,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Upper Body,Keep elbows tucked during push-ups
+INJ_2110,Lower Back,Muscle Spasm,Chronic/Recurring,Legs,Keep spine neutral | Avoid heavy deadlifts and bent-over rows
+INJ_2111,Lower Back,Muscle Spasm,Moderate,Pull (Back/Biceps),Keep spine neutral
+INJ_2112,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Upper Body & Pull (Back/Biceps),Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2113,Ankle / Foot,Shin Splints,Mild,Full Body,Substitute standing calf raises with seated
+INJ_2114,Ankle / Foot,Plantar Fasciitis,Chronic/Recurring,Full Body & Legs,Substitute standing calf raises with seated
+INJ_2115,Knee,Meniscus Tear (Mild),Chronic/Recurring,Legs & Core & Cardio,Avoid deep squatting
+INJ_2116,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Push (Chest/Shoulders/Triceps),Substitute push-ups with forearm planks or knuckle push-ups | Avoid heavy gripping (use straps for pulling)
+INJ_2117,Ankle / Foot,Flat Feet Pain,Mild,Full Body,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_2118,Shoulder,Biceps Tendinitis,Rehabilitating,Upper Body & Full Body,Substitute barbell bench with neutral-grip dumbbell press
+INJ_2119,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_2120,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups | Avoid overhead presses if causing pain
+INJ_2121,Knee,Knee Osteoarthritis,Rehabilitating,Legs,"Avoid deep squatting | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2122,Neck,Postural Neck Pain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_2123,Neck,Upper Trapezius Spasm,Mild,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs | Avoid crunches where hands pull on the neck
+INJ_2124,Lower Back,Sciatica,Chronic/Recurring,Full Body,Avoid heavy deadlifts and bent-over rows | Substitute sit-ups with planks or bird-dogs
+INJ_2125,Shoulder,Frozen Shoulder (Mild),Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_2126,Neck,Upper Trapezius Spasm,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid heavy barbell shrugs
+INJ_2127,Ankle / Foot,Shin Splints,Mild,Core & Cardio & Legs,Wear supportive footwear during lifts | Perform cardio on a stationary bike or swimming instead
+INJ_2128,Shoulder,Frozen Shoulder (Mild),Mild,Full Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_2129,Lower Back,Lumbar Strain,Rehabilitating,Full Body & Legs,Keep spine neutral
+INJ_2130,Neck,Whiplash Recovery,Rehabilitating,Core & Cardio,Avoid heavy barbell shrugs | Keep neck neutral during planks and push-ups
+INJ_2131,Wrist / Elbow,TFCC Tear (Mild),Mild,Upper Body,Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_2132,Neck,Cervical Strain,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_2133,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Pull (Back/Biceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_2134,Ankle / Foot,Ankle Sprain,Mild,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_2135,Knee,Patellar Tendinitis,Chronic/Recurring,Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_2136,Ankle / Foot,Achilles Tendinitis,Moderate,Core & Cardio,Perform cardio on a stationary bike or swimming instead | Substitute standing calf raises with seated
+INJ_2137,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps),Avoid overhead pressing
+INJ_2138,Ankle / Foot,Achilles Tendinitis,Rehabilitating,Core & Cardio & Full Body,Wear supportive footwear during lifts
+INJ_2139,Ankle / Foot,Shin Splints,Rehabilitating,Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_2140,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Full Body,Substitute standing calf raises with seated
+INJ_2141,Wrist / Elbow,Carpal Tunnel Syndrome,Chronic/Recurring,Pull (Back/Biceps),Avoid heavy gripping (use straps for pulling) | Use neutral grips (hammer curls instead of regular)
+INJ_2142,Knee,Patellar Tendinitis,Rehabilitating,Legs,Keep knee flexion pain-free
+INJ_2143,Neck,Cervical Strain,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_2144,Ankle / Foot,Ankle Sprain,Moderate,Core & Cardio & Legs,Wear supportive footwear during lifts
+INJ_2145,Shoulder,Shoulder Impingement,Chronic/Recurring,Pull (Back/Biceps),Avoid overhead pressing
+INJ_2146,Ankle / Foot,Shin Splints,Mild,Full Body & Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_2147,Neck,Upper Trapezius Spasm,Mild,Push (Chest/Shoulders/Triceps) & Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_2148,Ankle / Foot,Shin Splints,Rehabilitating,Full Body,Substitute standing calf raises with seated
+INJ_2149,Neck,Postural Neck Pain,Chronic/Recurring,Upper Body & Core & Cardio,Avoid crunches where hands pull on the neck | Avoid overhead presses if causing pain
+INJ_2150,Wrist / Elbow,Golfer's Elbow,Mild,Push (Chest/Shoulders/Triceps) & Pull (Back/Biceps),Avoid skull crushers
+INJ_2151,Shoulder,Frozen Shoulder (Mild),Rehabilitating,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid overhead pressing
+INJ_2152,Knee,Ligament Sprain (ACL/MCL),Rehabilitating,Full Body & Legs,Avoid deep squatting
+INJ_2153,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body,Avoid overhead pressing
+INJ_2154,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Full Body & Push (Chest/Shoulders/Triceps),Keep elbows tucked during push-ups | Avoid wide-grip pull-ups
+INJ_2155,Knee,Knee Osteoarthritis,Moderate,Legs,Avoid deep squatting | Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_2156,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_2157,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Full Body & Legs,Keep knee flexion pain-free
+INJ_2158,Knee,Runner's Knee (Patellofemoral Pain),Chronic/Recurring,Full Body,Keep knee flexion pain-free
+INJ_2159,Ankle / Foot,Plantar Fasciitis,Mild,Core & Cardio,Wear supportive footwear during lifts | Substitute standing calf raises with seated
+INJ_2160,Lower Back,Herniated Disc (Mild),Rehabilitating,Core & Cardio,Substitute sit-ups with planks or bird-dogs
+INJ_2161,Lower Back,SI Joint Dysfunction,Mild,Full Body & Legs,Avoid twisting core movements | Substitute sit-ups with planks or bird-dogs
+INJ_2162,Ankle / Foot,Shin Splints,Chronic/Recurring,Legs,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_2163,Shoulder,AC Joint Sprain,Moderate,Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2164,Ankle / Foot,Flat Feet Pain,Moderate,Legs,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_2165,Shoulder,AC Joint Sprain,Chronic/Recurring,Upper Body & Full Body,Avoid overhead pressing
+INJ_2166,Lower Back,Lumbar Strain,Mild,Pull (Back/Biceps) & Core & Cardio,Keep spine neutral
+INJ_2167,Shoulder,Biceps Tendinitis,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_2168,Shoulder,Biceps Tendinitis,Moderate,Upper Body & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_2169,Knee,Ligament Sprain (ACL/MCL),Moderate,Legs & Full Body,"Avoid high-impact jumps (Box Jumps, Burpees) | Keep knee flexion pain-free"
+INJ_2170,Shoulder,Biceps Tendinitis,Chronic/Recurring,Upper Body,Keep elbows tucked during push-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2171,Neck,Cervical Strain,Mild,Core & Cardio,Keep neck neutral during planks and push-ups
+INJ_2172,Wrist / Elbow,Tennis Elbow (Lateral Epicondylitis),Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_2173,Neck,Upper Trapezius Spasm,Mild,Core & Cardio,Avoid overhead presses if causing pain | Avoid crunches where hands pull on the neck
+INJ_2174,Neck,Upper Trapezius Spasm,Chronic/Recurring,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid crunches where hands pull on the neck
+INJ_2175,Wrist / Elbow,TFCC Tear (Mild),Chronic/Recurring,Upper Body & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling)
+INJ_2176,Shoulder,Rotator Cuff Tendinitis,Mild,Upper Body,Keep elbows tucked during push-ups | Avoid wide-grip pull-ups
+INJ_2177,Shoulder,Shoulder Impingement,Rehabilitating,Pull (Back/Biceps),Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2178,Shoulder,Shoulder Impingement,Rehabilitating,Push (Chest/Shoulders/Triceps),Avoid wide-grip pull-ups
+INJ_2179,Wrist / Elbow,Wrist Sprain,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Avoid heavy gripping (use straps for pulling) | Avoid skull crushers
+INJ_2180,Shoulder,Shoulder Impingement,Chronic/Recurring,Upper Body,Avoid wide-grip pull-ups | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2181,Lower Back,Lumbar Strain,Chronic/Recurring,Pull (Back/Biceps) & Legs,Avoid twisting core movements
+INJ_2182,Knee,Knee Osteoarthritis,Moderate,Legs & Core & Cardio,Avoid deep squatting
+INJ_2183,Neck,Whiplash Recovery,Rehabilitating,Upper Body & Push (Chest/Shoulders/Triceps),Keep neck neutral during planks and push-ups
+INJ_2184,Wrist / Elbow,Wrist Sprain,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid skull crushers
+INJ_2185,Ankle / Foot,Ankle Sprain,Chronic/Recurring,Legs,Substitute standing calf raises with seated
+INJ_2186,Lower Back,Lumbar Strain,Moderate,Core & Cardio,Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_2187,Wrist / Elbow,TFCC Tear (Mild),Moderate,Push (Chest/Shoulders/Triceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2188,Knee,Patellar Tendinitis,Moderate,Legs,Keep knee flexion pain-free | Avoid deep squatting
+INJ_2189,Knee,Knee Osteoarthritis,Chronic/Recurring,Full Body,Substitute Squats/Lunges with Glute Bridges or Wall Sits | Keep knee flexion pain-free
+INJ_2190,Shoulder,AC Joint Sprain,Chronic/Recurring,Full Body,Avoid overhead pressing
+INJ_2191,Lower Back,Sciatica,Moderate,Core & Cardio & Full Body,Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_2192,Ankle / Foot,Flat Feet Pain,Moderate,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_2193,Ankle / Foot,Plantar Fasciitis,Mild,Full Body & Core & Cardio,Perform cardio on a stationary bike or swimming instead
+INJ_2194,Neck,Upper Trapezius Spasm,Chronic/Recurring,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_2195,Shoulder,Frozen Shoulder (Mild),Moderate,Full Body,Avoid wide-grip pull-ups | Keep elbows tucked during push-ups
+INJ_2196,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Legs,Substitute sit-ups with planks or bird-dogs
+INJ_2197,Neck,Whiplash Recovery,Moderate,Core & Cardio & Push (Chest/Shoulders/Triceps),Avoid overhead presses if causing pain
+INJ_2198,Knee,Patellar Tendinitis,Moderate,Legs,Keep knee flexion pain-free
+INJ_2199,Ankle / Foot,Flat Feet Pain,Rehabilitating,Legs,"Substitute standing calf raises with seated | Avoid running, jumping, and high-impact cardio"
+INJ_2200,Wrist / Elbow,Carpal Tunnel Syndrome,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute push-ups with forearm planks or knuckle push-ups | Avoid heavy gripping (use straps for pulling)
+INJ_2201,Wrist / Elbow,Golfer's Elbow,Mild,Pull (Back/Biceps) & Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2202,Lower Back,Sciatica,Mild,Core & Cardio,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_2203,Lower Back,Sciatica,Mild,Full Body,Substitute sit-ups with planks or bird-dogs | Keep spine neutral
+INJ_2204,Knee,Patellar Tendinitis,Moderate,Full Body & Legs,"Avoid high-impact jumps (Box Jumps, Burpees) | Substitute Squats/Lunges with Glute Bridges or Wall Sits"
+INJ_2205,Ankle / Foot,Shin Splints,Rehabilitating,Legs & Core & Cardio,"Wear supportive footwear during lifts | Avoid running, jumping, and high-impact cardio"
+INJ_2206,Ankle / Foot,Ankle Sprain,Rehabilitating,Full Body,Substitute standing calf raises with seated
+INJ_2207,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Core & Cardio & Legs,Substitute standing calf raises with seated | Wear supportive footwear during lifts
+INJ_2208,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Core & Cardio & Legs,Substitute standing calf raises with seated
+INJ_2209,Shoulder,Frozen Shoulder (Mild),Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid wide-grip pull-ups
+INJ_2210,Knee,Knee Osteoarthritis,Chronic/Recurring,Legs,Avoid deep squatting
+INJ_2211,Shoulder,Shoulder Impingement,Rehabilitating,Pull (Back/Biceps),Substitute barbell bench with neutral-grip dumbbell press | Avoid wide-grip pull-ups
+INJ_2212,Neck,Cervical Strain,Rehabilitating,Push (Chest/Shoulders/Triceps) & Core & Cardio,Avoid overhead presses if causing pain | Avoid heavy barbell shrugs
+INJ_2213,Shoulder,Biceps Tendinitis,Mild,Push (Chest/Shoulders/Triceps) & Upper Body,Substitute barbell bench with neutral-grip dumbbell press | Avoid overhead pressing
+INJ_2214,Lower Back,Muscle Spasm,Rehabilitating,Full Body & Core & Cardio,Keep spine neutral | Substitute sit-ups with planks or bird-dogs
+INJ_2215,Knee,Patellar Tendinitis,Mild,Core & Cardio,"Keep knee flexion pain-free | Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2216,Ankle / Foot,Ankle Sprain,Moderate,Legs & Core & Cardio,Perform cardio on a stationary bike or swimming instead | Wear supportive footwear during lifts
+INJ_2217,Shoulder,AC Joint Sprain,Rehabilitating,Pull (Back/Biceps) & Full Body,Keep elbows tucked during push-ups | Avoid wide-grip pull-ups
+INJ_2218,Wrist / Elbow,Carpal Tunnel Syndrome,Rehabilitating,Upper Body & Pull (Back/Biceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2219,Knee,Patellar Tendinitis,Mild,Full Body,Avoid deep squatting
+INJ_2220,Ankle / Foot,Ankle Sprain,Moderate,Legs,Substitute standing calf raises with seated
+INJ_2221,Ankle / Foot,Achilles Tendinitis,Chronic/Recurring,Legs & Full Body,Perform cardio on a stationary bike or swimming instead
+INJ_2222,Ankle / Foot,Shin Splints,Rehabilitating,Full Body,Wear supportive footwear during lifts
+INJ_2223,Neck,Cervical Strain,Mild,Core & Cardio,Avoid crunches where hands pull on the neck
+INJ_2224,Wrist / Elbow,Carpal Tunnel Syndrome,Moderate,Upper Body,Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2225,Lower Back,Herniated Disc (Mild),Chronic/Recurring,Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_2226,Knee,Meniscus Tear (Mild),Rehabilitating,Legs,Keep knee flexion pain-free
+INJ_2227,Wrist / Elbow,Wrist Sprain,Moderate,Upper Body & Pull (Back/Biceps),Avoid skull crushers
+INJ_2228,Shoulder,Biceps Tendinitis,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Full Body,Keep elbows tucked during push-ups | Avoid overhead pressing
+INJ_2229,Knee,Meniscus Tear (Mild),Rehabilitating,Core & Cardio,"Avoid high-impact jumps (Box Jumps, Burpees)"
+INJ_2230,Lower Back,Lumbar Strain,Rehabilitating,Pull (Back/Biceps),Keep spine neutral | Avoid twisting core movements
+INJ_2231,Shoulder,Biceps Tendinitis,Rehabilitating,Full Body & Upper Body,Avoid wide-grip pull-ups | Avoid overhead pressing
+INJ_2232,Lower Back,Sciatica,Rehabilitating,Full Body & Pull (Back/Biceps),Avoid twisting core movements | Avoid heavy deadlifts and bent-over rows
+INJ_2233,Wrist / Elbow,Golfer's Elbow,Chronic/Recurring,Push (Chest/Shoulders/Triceps) & Upper Body,Avoid skull crushers
+INJ_2234,Knee,Knee Osteoarthritis,Mild,Full Body & Core & Cardio,Keep knee flexion pain-free | Avoid deep squatting
+INJ_2235,Ankle / Foot,Flat Feet Pain,Chronic/Recurring,Core & Cardio & Full Body,"Avoid running, jumping, and high-impact cardio | Perform cardio on a stationary bike or swimming instead"
+INJ_2236,Wrist / Elbow,Golfer's Elbow,Rehabilitating,Upper Body,Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
+INJ_2237,Shoulder,Shoulder Impingement,Rehabilitating,Upper Body,Avoid overhead pressing | Substitute barbell bench with neutral-grip dumbbell press
+INJ_2238,Lower Back,Muscle Spasm,Rehabilitating,Pull (Back/Biceps),Avoid heavy deadlifts and bent-over rows | Keep spine neutral
+INJ_2239,Shoulder,AC Joint Sprain,Rehabilitating,Pull (Back/Biceps) & Upper Body,Avoid overhead pressing
+INJ_2240,Lower Back,SI Joint Dysfunction,Moderate,Pull (Back/Biceps) & Full Body,Substitute sit-ups with planks or bird-dogs
+INJ_2241,Shoulder,Rotator Cuff Tendinitis,Chronic/Recurring,Push (Chest/Shoulders/Triceps),Avoid overhead pressing | Avoid wide-grip pull-ups
+INJ_2242,Knee,Patellar Tendinitis,Chronic/Recurring,Core & Cardio & Legs,Substitute Squats/Lunges with Glute Bridges or Wall Sits
+INJ_2243,Wrist / Elbow,TFCC Tear (Mild),Rehabilitating,Upper Body,Use neutral grips (hammer curls instead of regular)
+INJ_2244,Lower Back,SI Joint Dysfunction,Mild,Full Body,Keep spine neutral
+INJ_2245,Shoulder,Rotator Cuff Tendinitis,Rehabilitating,Pull (Back/Biceps) & Push (Chest/Shoulders/Triceps),Substitute barbell bench with neutral-grip dumbbell press
+INJ_2246,Wrist / Elbow,Golfer's Elbow,Moderate,Pull (Back/Biceps) & Upper Body,Avoid skull crushers | Avoid heavy gripping (use straps for pulling)
+INJ_2247,Ankle / Foot,Achilles Tendinitis,Moderate,Legs & Core & Cardio,"Perform cardio on a stationary bike or swimming instead | Avoid running, jumping, and high-impact cardio"
+INJ_2248,Knee,Knee Osteoarthritis,Mild,Full Body & Legs,Keep knee flexion pain-free
+INJ_2249,Wrist / Elbow,Golfer's Elbow,Moderate,Push (Chest/Shoulders/Triceps),Avoid skull crushers | Substitute push-ups with forearm planks or knuckle push-ups
