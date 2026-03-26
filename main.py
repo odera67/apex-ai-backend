@@ -15,13 +15,19 @@ import random
 # ==========================================
 app = FastAPI()
 
+# FIXED CORS POLICY
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
-    allow_credentials=True,
+    allow_origins=["*"], # Allows your web app AND mobile app
+    allow_credentials=False, # THIS MUST BE FALSE WHEN USING "*"
     allow_methods=["*"], 
     allow_headers=["*"],
 )
+
+# ADDED HEALTH CHECK ROUTE
+@app.get("/")
+async def root():
+    return {"status": "Apex API is Online and Ready!"}
 
 try:
     nlp = spacy.load("en_core_web_sm")
